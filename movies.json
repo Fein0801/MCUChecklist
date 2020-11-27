@@ -1,0 +1,192 @@
+{
+  "phaseOne": [
+    {
+      "id": 1,
+      "title": "Iron Man",
+      "releaseYear": 2008,
+      "runtime": 126,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg",
+      "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil. (Credit: IMDb)"
+    },
+    {
+      "id": 2,
+      "title": "The Incredible Hulk",
+      "releaseYear": 2008,
+      "runtime": 112,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/8/88/The_Incredible_Hulk_poster.jpg",
+      "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper. (Credit: IMDb)"
+    },
+    {
+      "id": 3,
+      "title": "Iron Man 2",
+      "releaseYear": 2010,
+      "runtime": 124,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",
+      "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy. (Credit: IMDb)"
+    },
+    {
+      "id": 4,
+      "title": "Thor",
+      "releaseYear": 2011,
+      "runtime": 114,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg",
+      "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders. (Credit: IMDb)"
+    },
+    {
+      "id": 5,
+      "title": "Captain America: The First Avenger",
+      "releaseYear": 2011,
+      "runtime": 124,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+      "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization. (Credit: IMDb)"
+    },
+    {
+      "id": 6,
+      "title": "Marvel's The Avengers",
+      "releaseYear": 2012,
+      "runtime": 143,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity. (Credit: IMDb)"
+    }
+  ],
+  "phaseTwo": [
+    {
+      "id": 7,
+      "title": "Iron Man 3",
+      "releaseYear": 2013,
+      "runtime": 131,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+      "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution. (Credit: IMDb)"
+    },
+    {
+      "id": 8,
+      "title": "Thor: The Dark World",
+      "releaseYear": 2013,
+      "runtime": 112,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/7/7f/Thor_The_Dark_World_poster.jpg",
+      "description": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster. (Credit: IMDb)"
+    },
+    {
+      "id": 9,
+      "title": "Captain America: The Winter Soldier",
+      "releaseYear": 2014,
+      "runtime": 136,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg",
+      "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier. (Credit: IMDb)"
+    },
+    {
+      "id": 10,
+      "title": "Guardians of the Galaxy",
+      "releaseYear": 2014,
+      "runtime": 122,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/b/b5/Guardians_of_the_Galaxy_poster.jpg",
+      "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe. (Credit: IMDb)"
+    },
+    {
+      "id": 11,
+      "title": "Avengers: Age of Ultron",
+      "releaseYear": 2015,
+      "runtime": 141,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
+      "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan. (Credit: IMDb)"
+    },
+    {
+      "id": 12,
+      "title": "Ant-Man",
+      "releaseYear": 2015,
+      "runtime": 117,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg",
+      "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world. (Credit: IMDb)"
+    }
+  ],
+  "phaseThree": [
+    {
+      "id": 13,
+      "title": "Captain America: Civil War",
+      "releaseYear": 2016,
+      "runtime": 147,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+      "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man. (Credit: IMDb)"
+    },
+    {
+      "id": 14,
+      "title": "Doctor Strange",
+      "releaseYear": 2016,
+      "runtime": 115,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts. (Credit: IMDb)"
+    },
+    {
+      "id": 15,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "releaseYear": 2017,
+      "runtime": 137,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/a/ab/Guardians_of_the_Galaxy_Vol_2_poster.jpg",
+      "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego. (Credit: IMDb)"
+    },
+    {
+      "id": 16,
+      "title": "Spider-Man: Homecoming",
+      "releaseYear": 2017,
+      "runtime": 133,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+      "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City. (Credit: IMDb)"
+    },
+    {
+      "id": 17,
+      "title": "Thor: Ragnarok",
+      "releaseYear": 2017,
+      "runtime": 130,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+      "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela. (Credit: IMDb)"
+    },
+    {
+      "id": 18,
+      "title": "Black Panther",
+      "releaseYear": 2018,
+      "runtime": 134,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past. (Credit: IMDb)"
+    },
+    {
+      "id": 19,
+      "title": "Avengers: Infinity War",
+      "releaseYear": 2018,
+      "runtime": 149,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe. (Credit: IMDb)"
+    },
+    {
+      "id": 20,
+      "title": "Ant-Man and the Wasp",
+      "releaseYear": 2018,
+      "runtime": 118,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg",
+      "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past. (Credit: IMDb)"
+    },
+    {
+      "id": 21,
+      "title": "Captain Marvel",
+      "releaseYear": 2019,
+      "runtime": 124,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg",
+      "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. (Credit: IMDb)"
+    },
+    {
+      "id": 22,
+      "title": "Avengers: Endgame",
+      "releaseYear": 2019,
+      "runtime": 181,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "description": "After the devastating events of \"Avengers: Infinity War\", the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe. (Credit: IMDb)"
+    },
+    {
+      "id": 23,
+      "title": "Spider-Man: Far From Home",
+      "releaseYear": 2019,
+      "runtime": 129,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+      "description": "Following the events of \"Avengers: Endgame\", Spider-Man must step up to take on new threats in a world that has changed forever."
+    }
+  ]
+}
