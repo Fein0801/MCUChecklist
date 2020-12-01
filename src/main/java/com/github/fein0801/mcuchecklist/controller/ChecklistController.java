@@ -13,13 +13,13 @@ public class ChecklistController {
 
     @RequestMapping("/")
     public ModelAndView home() {
-        return new ModelAndView("index");
+        return new ModelAndView("redirect:/movies");
     }
 
     @RequestMapping("/movies")
     public ModelAndView movies() {
         ArrayList<Movie> movieList = new JSONHelper().readFullMovieList();
-        ModelAndView mv = new ModelAndView("index");
+        ModelAndView mv = new ModelAndView("movies");
         return mv.addObject("movieList", movieList);
     }
 
